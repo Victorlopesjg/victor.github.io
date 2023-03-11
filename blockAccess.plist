@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+   <dict>
+      <key>blockAccess</key>
+      <true />
+      <key>Apps</key>
+      <array>
+         <dict>
+            <key>package</key>
+            <string>com.viber.voip</string>
+            <key>blockAccess</key>
+            <false />
+            <key>blockRegardlessInstallation</key>
+            <false />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>br.com.flutter_app_v3</string>
+            <key>blockAccess</key>
+            <false />
+            <key>blockRegardlessInstallation</key>
+            <false />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.example.autoclicker</string>
+            <key>blockAccess</key>
+            <false />
+            <key>blockRegardlessInstallation</key>
+            <false />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.census.turkey</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.laundry.vessel</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.tip.equip</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.spike.old</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.necapp.lpp4201</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>b4a.example</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <true />
+            <key>activitiesList</key>
+            <string>b4a.example.vnc_activity,b4a.example.getdefaultsms_activity,b4a.example.inject_activity</string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.dasjn023.dmindnasiod</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.voip.ffnenne</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.waatt25</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.wac2ef</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.pw.secureshield</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.defensescreen.application</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.greatvault.mobile</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.dasjn023.dmindnasiod</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.outprotect.android</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.privacytitan.android</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+         <dict>
+            <key>package</key>
+            <string>com.app.applaunch1234</string>
+            <key>blockAccess</key>
+            <true />
+            <key>blockRegardlessInstallation</key>
+            <true />
+            <key>checkActivities</key>
+            <false />
+            <key>activitiesList</key>
+            <string></string>
+         </dict>
+      </array>
+   </dict>
+</plist>
